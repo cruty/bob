@@ -316,7 +316,7 @@ func dat(k:orientation)->String{
     case .n: return "north"
     }
 }
-
+var  aaa: [String] = ["nivdia","amd"]
 
 
 
