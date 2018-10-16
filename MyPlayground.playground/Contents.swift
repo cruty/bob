@@ -314,7 +314,6 @@ func dat(k:orientation)->String{
     case .w: return "west"
     case .e: return "east"
     case .n: return "north"
-        
     }
 }
 
