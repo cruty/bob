@@ -318,7 +318,19 @@ func dat(k:orientation)->String{
 }
 var  aaa: [String] = ["nivdia","amd"]
 
+let bpb: [String: [String]]
 
 
+func k(a: [Float]){
+    for k in a {
+        print(k)
+    }
+    
+}
 
 
+func s(hi:Int,S:[String])->String{
+    
+    return S[hi]
+
+}
